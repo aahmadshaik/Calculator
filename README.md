@@ -23,7 +23,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/calculator-app.git
+    git clone https://github.com/aahmadshaik/Calculator.git
     cd calculator-app
     ```
 
